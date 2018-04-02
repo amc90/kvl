@@ -51,17 +51,17 @@ Numeric branches are basically arrays, and the integers are zero based, and don'
 
 ### Example
 
-:.animals.cat
- This is a cat
-::.colours
-/'black
-/'white
-/'brown
-:<
-.legs'4
-:<.says
-meow/nmeow
-/0'This is an array value just to demonstrate them
+    :.animals.cat
+     This is a cat
+    ::.colours
+    /'black
+    /'white
+    /'brown
+    :<
+    .legs'4
+    :<.says
+    meow/nmeow
+    /0'This is an array value just to demonstrate them
 
 ### Syntax
 
